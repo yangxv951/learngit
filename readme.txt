@@ -3,5 +3,6 @@ Git is free software.
 Git is good version control system。
 git is second alter
 second alter 第二次更改
-第四次修改
 第五次修改
+第6次修改
+增加第六次的内容
